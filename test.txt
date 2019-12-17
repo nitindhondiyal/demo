@@ -1,0 +1,5 @@
+############# FIRST FILE OF GIT PROJECT
+
+echo "This is the first file."
+echo "It is only used for testing."
+
