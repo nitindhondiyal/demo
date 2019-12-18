@@ -1,0 +1,2 @@
+################## b.txt
+echo " this file contains information about b."

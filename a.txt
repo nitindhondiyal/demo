@@ -1,0 +1,3 @@
+########## a.txt
+echo " this file contains information about a."
+
